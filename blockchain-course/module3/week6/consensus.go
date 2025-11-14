@@ -69,13 +69,13 @@ func (pow *PoW) ValidateBlock(block *Block) bool {
 	// max_target for 256-bit hash is 2^224 (most significant 28 bytes can be non-zero)
 	maxTarget := new(big.Int)
 	maxTarget.Exp(big.NewInt(2), big.NewInt(224), nil) // 2^224
-	
+
 	target := new(big.Int)
 	target.Div(maxTarget, big.NewInt(int64(pow.Difficulty)))
-	
+
 	hashInt := new(big.Int)
 	hashInt.SetBytes(block.Hash)
-	
+
 	return hashInt.Cmp(target) == -1
 }
 
