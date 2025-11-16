@@ -7,6 +7,17 @@
 
 For a fast start with the course, check out our [Quick Start Guide](file:///Users/admin/Documents/Forbest/blockchainCourse/blockchain-course/QUICKSTART.md).
 
+## Interactive Learning with Jupyter Notebooks
+
+This course includes interactive Jupyter Notebooks for enhanced learning:
+
+- [Module 1: Blockchain Fundamentals & Cryptography](file:///Users/admin/Documents/Forbest/blockchainCourse/blockchain-course/module1/Blockchain_Module_1.ipynb)
+- [Module 2: Advanced Blockchain Features](file:///Users/admin/Documents/Forbest/blockchainCourse/blockchain-course/module2/Blockchain_Module_2.ipynb)
+- [Module 3: Networking & Consensus](file:///Users/admin/Documents/Forbest/blockchainCourse/blockchain-course/module3/Blockchain_Module_3.ipynb)
+- [Module 4: Enterprise Blockchain](file:///Users/admin/Documents/Forbest/blockchainCourse/blockchain-course/module4/Blockchain_Module_4.ipynb)
+- [Module 5: Production & Security](file:///Users/admin/Documents/Forbest/blockchainCourse/blockchain-course/module5/Blockchain_Module_5.ipynb)
+- [Complete Course Index](file:///Users/admin/Documents/Forbest/blockchainCourse/blockchain-course/Blockchain_Course_Index.ipynb)
+
 ## Course Modules
 
 ### MODULE 1: BLOCKCHAIN FUNDAMENTALS & CRYPTOGRAPHY (Weeks 1-2)

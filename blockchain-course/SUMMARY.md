@@ -111,6 +111,7 @@ Students complete one of three comprehensive capstone projects:
 - [Interactive Tutorials](file:///Users/admin/Documents/Forbest/blockchainCourse/blockchain-course/TUTORIALS.md) - Step-by-step coding guides
 - [Troubleshooting Guide](file:///Users/admin/Documents/Forbest/blockchainCourse/blockchain-course/TROUBLESHOOTING.md) - Solutions to common issues
 - [Quick Start Guide](file:///Users/admin/Documents/Forbest/blockchainCourse/blockchain-course/QUICKSTART.md) - Fast path to get started
+- [Interactive Jupyter Notebooks](file:///Users/admin/Documents/Forbest/blockchainCourse/blockchain-course/Blockchain_Course_Index.ipynb) - Interactive learning modules for each course section
 
 ## Learning Path
 - **Course Duration**: 10 Weeks

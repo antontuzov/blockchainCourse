@@ -1,6 +1,9 @@
 # Blockchain Development Course by Anton Tuzov
+# Blockchain by Anton Tuzov
 
 A comprehensive 10-week course teaching blockchain development from first principles using Go. This course covers everything from basic cryptography to enterprise blockchain platforms, with a strong emphasis on hands-on implementation and real-world applications.
+
+This repository contains interactive Jupyter Notebooks for each module of the course, providing an enhanced learning experience with detailed explanations and code examples.
 
 ## Course Overview
 
@@ -11,6 +14,17 @@ This repository contains the complete implementation of a blockchain development
 - Networking and consensus algorithms
 - Enterprise blockchain solutions
 - Production deployment and security
+
+## Interactive Learning Resources
+
+This repository includes interactive Jupyter Notebooks for each module to enhance the learning experience:
+
+- [Module 1: Blockchain Fundamentals & Cryptography](blockchain-course/module1/Blockchain_Module_1.ipynb)
+- [Module 2: Advanced Blockchain Features](blockchain-course/module2/Blockchain_Module_2.ipynb)
+- [Module 3: Networking & Consensus](blockchain-course/module3/Blockchain_Module_3.ipynb)
+- [Module 4: Enterprise Blockchain](blockchain-course/module4/Blockchain_Module_4.ipynb)
+- [Module 5: Production & Security](blockchain-course/module5/Blockchain_Module_5.ipynb)
+- [Complete Course Index](blockchain-course/Blockchain_Course_Index.ipynb)
 
 ## Repository Structure
 
@@ -137,12 +151,35 @@ go test ./...
 go test ./module1/week1
 ```
 
+### Using Jupyter Notebooks
+
+To use the interactive Jupyter Notebooks for enhanced learning:
+
+1. Install Jupyter Notebook:
+   ```bash
+   pip install notebook
+   ```
+
+2. Install the Go kernel for Jupyter:
+   ```bash
+   go install github.com/gopherdata/gophernotes@latest
+   ```
+
+3. Start Jupyter Notebook:
+   ```bash
+   jupyter notebook
+   ```
+
+4. Navigate to the notebook files in the `blockchain-course` directory and open them to begin interactive learning.
+
 ## Author
 
 **Anton Tuzov** - *Blockchain Developer & Instructor*
 
 - GitHub: [@antontuzov](https://github.com/antontuzov)
 - LinkedIn: [Anton Tuzov](https://www.linkedin.com/in/antontuzov)
+
+This course is part of the "Blockchain by Anton Tuzov" series, designed to provide comprehensive education in blockchain development.
 
 ## License
 
