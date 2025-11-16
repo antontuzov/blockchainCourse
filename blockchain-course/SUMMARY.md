@@ -106,6 +106,12 @@ Students complete one of three comprehensive capstone projects:
 - **Testing & Quality**: Go testing framework, Testify, Ginkgo, GolangCI-Lint
 - **Deployment & Monitoring**: Kubernetes, Prometheus, Grafana, Jaeger
 
+## Additional Learning Resources
+- [Architecture Diagrams](file:///Users/admin/Documents/Forbest/blockchainCourse/blockchain-course/ARCHITECTURE.md) - Visual representations of system components
+- [Interactive Tutorials](file:///Users/admin/Documents/Forbest/blockchainCourse/blockchain-course/TUTORIALS.md) - Step-by-step coding guides
+- [Troubleshooting Guide](file:///Users/admin/Documents/Forbest/blockchainCourse/blockchain-course/TROUBLESHOOTING.md) - Solutions to common issues
+- [Quick Start Guide](file:///Users/admin/Documents/Forbest/blockchainCourse/blockchain-course/QUICKSTART.md) - Fast path to get started
+
 ## Learning Path
 - **Course Duration**: 10 Weeks
 - **Prerequisites**: Basic Go programming, understanding of data structures

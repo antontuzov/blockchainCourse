@@ -3,6 +3,10 @@
 **Course Duration:** 10 Weeks  
 **Prerequisites:** Basic Go programming, understanding of data structures
 
+## Quick Start
+
+For a fast start with the course, check out our [Quick Start Guide](file:///Users/admin/Documents/Forbest/blockchainCourse/blockchain-course/QUICKSTART.md).
+
 ## Course Modules
 
 ### MODULE 1: BLOCKCHAIN FUNDAMENTALS & CRYPTOGRAPHY (Weeks 1-2)
@@ -29,6 +33,13 @@
 1. Cryptocurrency Implementation
 2. Enterprise Blockchain Platform
 3. DeFi Protocol
+
+### ADDITIONAL RESOURCES
+
+- [Architecture Diagrams](file:///Users/admin/Documents/Forbest/blockchainCourse/blockchain-course/ARCHITECTURE.md) - Visual representations of system components
+- [Interactive Tutorials](file:///Users/admin/Documents/Forbest/blockchainCourse/blockchain-course/TUTORIALS.md) - Step-by-step coding guides
+- [Troubleshooting Guide](file:///Users/admin/Documents/Forbest/blockchainCourse/blockchain-course/TROUBLESHOOTING.md) - Solutions to common issues
+- [Quick Start Guide](file:///Users/admin/Documents/Forbest/blockchainCourse/blockchain-course/QUICKSTART.md) - Fast path to get started
 
 ### TOOLING & DEVELOPMENT STACK
 - Core Technologies: Go, Protocol Buffers, gRPC, LevelDB/BoltDB, Docker
